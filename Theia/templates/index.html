@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Theia</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type = "text/css" href="{{url_for('static', filename='styles/style.css')}}">
+</head>
+<body data-spy="scroll" data-target="#menu">
+<!--- Start Home Section -->
+<div id="home">
+<!--- Navigation -->
+<nav class="navbar navbar-dark bg-dark navbar-expand-md fixed-top">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="#"><image src="{{url_for('static', filename='images/Logo.png')}}">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="menu">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+					<a id = "homelink" class="nav-link" href="#home">Home</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#about">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#ourteam">Our Team</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#pricing">Pricing</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#contact">Contact</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<!--- Start Landing Page -->
+<div class="landing">
+	<div class="home-wrap">
+		<div class="home-inner">
+		</div>
+	</div>
+</div>
+<!--- Start Landing Page Caption -->
+<div class="caption center-block text-center">
+	<h3>Theia</h3>
+	<h5>Predictive analysis of vulnerable populations</h5>
+	<a class="btn btn-outline-light" href="../map.html">Get Started</a>
+</div>
+</div> <!--- End Home Section -->
+
+<!--- Start About Section -->
+<div id="about">
+	<div class="jumbotron">
+		<h3 class="heading">About</h3>
+	</div> <!--- End Jumbotron -->
+	<div class="row">
+		<div class="col-md-6 text-center">
+			<h4>Recession Impact Index</h4>
+			<image class="card-img-top" src="{{url_for('static', filename='images/globe.png')}}"></image>
+		</div>
+		<div class="col-md-6 text-center">
+			<h4>Vulnerability Clustering</h4>
+			<image class="card-img-top" src="{{url_for('static', filename='images/country.png')}}"></image>
+		</div>
+	</div> <!--- End Row -->
+</div> <!---End About Section -->
+<!--- Start Portfolio Section -->
+<div id="ourteam">
+	<div class="container-fluid padding">
+		<h3 class="heading">Our Team</h3>
+	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+		  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+		  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+		  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+		  <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+		</ol>
+		<div class="carousel-inner">
+		  <div class="carousel-item active">
+			<image class="d-block w-100" src="{{url_for('static', filename='images/keerthana.png')}}" alt="First slide"></image>
+			<div class="carousel-caption d-none d-md-block">
+				<h5>Keerthana Nallamotu</h5>
+			  </div>
+		  </div>
+		  <div class="carousel-item">
+			<image class="d-block w-100" src="{{url_for('static', filename='images/kiran.png')}}" alt="Second slide"></image>
+			<div class="carousel-caption d-none d-md-block">
+				<h5>Kiran Suresh</h5>
+			  </div>
+		  </div>
+		  <div class="carousel-item">
+			<image class="d-block w-100" src="{{url_for('static', filename='images/nick.png')}}" alt="Third slide"></image>
+			<div class="carousel-caption d-none d-md-block">
+				<h5>Nick Jiang</h5>
+			  </div>
+		  </div>
+		  <div class="carousel-item">
+			<image class="d-block w-100" src="{{url_for('static', filename='images/abhishek.png')}}" alt="Fourth slide"></image>
+			<div class="carousel-caption d-none d-md-block">
+				<h5>Abhishek Koul</h5>
+			  </div>
+		  </div>
+		</div>
+		<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+		  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		  <span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+		  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+		  <span class="sr-only">Next</span>
+		</a>
+	  </div>
+	</div> <!--- End Row -->
+	</div> <!--- End Container Fluid -->
+</div>  <!-- End Portfolio Section -->
+<!--- Start Testimonials Section -->
+<div id="pricing">
+	<div class="row padding">
+		<div class="col-md-2 align-center">
+		</div>
+		<div class="col-md-8 align-center">
+			<div class="card text-center">
+				<image class="card-img-top" src="{{url_for('static', filename='images/bus.png')}}"></image>
+				<div class="card-body">
+					<h4>Business Model </h4>
+				</div>
+			</div>
+		</div>
+	</div> <!--- End Row -->
+
+</div> <!--- End Testimonials Section -->
+<!--- Start Contact Section -->
+<div id="contact">
+	<div class="container-fluid footer">
+	<div class="row">
+		<div class="col-md-3"></div>
+		<div class="col-md-6 text-center">
+			<div class="image text-center">
+			<image src="{{url_for('static', filename='images/Logo.png')}}" height = '80px' width = '50px'></image>
+			</div>
+            <strong>Contact</strong>
+			<p>theia9contact@gmail.com</p>
+		</div>	
+	</div> <!--- End Row -->
+	</div> <!--- End Container Fluid Footer -->
+</div> <!--- End Contact Section -->
+
+<!--- Script Source Files -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+</body>
+</html>

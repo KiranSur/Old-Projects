@@ -1,0 +1,188 @@
+Country ID,Country,Unemployment
+AFG,Afghanistan,8.399999619
+AGO,Angola,6.5
+ALB,Albania,13
+ARE,United Arab Emirates,3.200000048
+ARG,Argentina,9.399999619
+ARM,Armenia,16.89999962
+AUS,Australia,4.800000191
+AUT,Austria,5.199999809
+AZE,Azerbaijan,6.599999905
+BDI,Burundi,1.700000048
+BEL,Belgium,8.199999809
+BEN,Benin,1
+BFA,Burkina Faso,2.299999952
+BGD,Bangladesh,4.5
+BGR,Bulgaria,9
+BHR,Bahrain,1.399999976
+BHS,"Bahamas, The",7.599999905
+BIH,Bosnia and Herzegovina,31.10000038
+BLR,Belarus,0.699999988
+BLZ,Belize,9.399999619
+BOL,Bolivia,5.300000191
+BRA,Brazil,11.5
+BRB,Barbados,8.699999809
+BRN,Brunei Darussalam,5.599999905
+BTN,Bhutan,3.099999905
+BWA,Botswana,17.79999924
+CAF,Central African Republic,6.199999809
+CAN,Canada,6.300000191
+CHE,Switzerland,4
+CHL,Chile,7.699999809
+CHN,China,4
+CIV,Cote d'Ivoire,9.199999809
+CMR,Cameroon,3.700000048
+COD,"Congo, Dem. Rep.",3.700000048
+COG,"Congo, Rep.",13.5
+COL,Colombia,11.69999981
+COM,Comoros,20.20000076
+CPV,Cabo Verde,11.19999981
+CRI,Costa Rica,5.699999809
+CUB,Cuba,1.899999976
+CYP,Cyprus,4.5
+CZE,Czech Republic,7.099999905
+DEU,Germany,10.19999981
+DJI,Djibouti,6.199999809
+DNK,Denmark,3.900000095
+DOM,Dominican Republic,13.30000019
+DZA,Algeria,12.30000019
+ECU,Ecuador,7.699999809
+EGY,"Egypt, Arab Rep.",10.5
+ERI,Eritrea,6.699999809
+ESP,Spain,8.5
+EST,Estonia,5.900000095
+ETH,Ethiopia,5.300000191
+FIN,Finland,7.699999809
+FJI,Fiji,6.5
+FRA,France,8.899999619
+GAB,Gabon,16.79999924
+GBR,United Kingdom,5.400000095
+GEO,Georgia,13.60000038
+GHA,Ghana,3.599999905
+GIN,Guinea,6.300000191
+GMB,"Gambia, The",29.60000038
+GNB,Guinea-Bissau,6.199999809
+GNQ,Equatorial Guinea,6.099999905
+GRC,Greece,9
+GRL,Greenland,9.1
+GTM,Guatemala,1.799999952
+GUM,Guam,7.400000095
+GUY,Guyana,10.69999981
+HKG,Hong Kong,4.800000191
+HND,Honduras,3.099999905
+HRV,Croatia,11.10000038
+HTI,Haiti,15.69999981
+HUN,Hungary,7.5
+IDN,Indonesia,10.30000019
+IND,India,4.300000191
+IRL,Ireland,4.400000095
+IRN,"Iran, Islamic Rep.",11.30000019
+IRQ,Iraq,17.5
+ISL,Iceland,2.799999952
+ISR,Israel,10.69999981
+ITA,Italy,6.800000191
+JAM,Jamaica,9.600000381
+JOR,Jordan,14
+JPN,Japan,4.099999905
+KAZ,Kazakhstan,7.800000191
+KEN,Kenya,10.89999962
+KGZ,Kyrgyz Republic,8.300000191
+KHM,Cambodia,1.399999976
+KOR,"Korea, Rep.",3.5
+KWT,Kuwait,1.299999952
+LAO,Lao PDR,1.399999976
+LBN,Lebanon,8.399999619
+LBR,Liberia,4.199999809
+LBY,Libya,17.70000076
+LCA,St. Lucia,16
+LKA,Sri Lanka,6.5
+LSO,Lesotho,34.29999924
+LTU,Lithuania,5.800000191
+LUX,Luxembourg,4.699999809
+LVA,Latvia,7
+MAC,"Macao SAR, China",3.700000048
+MAR,Morocco,9.699999809
+MDA,Moldova,7.400000095
+MDG,Madagascar,3.900000095
+MDV,Maldives,2.5
+MEX,Mexico,3.599999905
+MKD,"Macedonia, FYR",36.09999847
+MLI,Mali,10.39999962
+MLT,Malta,6.800000191
+MMR,Myanmar,0.800000012
+MNE,Montenegro,18.39999962
+MNG,Mongolia,3.200000048
+MOZ,Mozambique,23.39999962
+MRT,Mauritania,10.5
+MUS,Mauritius,9.100000381
+MWI,Malawi,6.699999809
+MYS,Malaysia,3.299999952
+NAM,Namibia,20.60000038
+NCL,New Caledonia,15.19999981
+NER,Niger,2.900000095
+NGA,Nigeria,7.099999905
+NIC,Nicaragua,5.300000191
+NLD,Netherlands,3.900000095
+NOR,Norway,3.400000095
+NPL,Nepal,3.200000048
+NZL,New Zealand,3.799999952
+OMN,Oman,19.5
+PAK,Pakistan,6.099999905
+PAN,Panama,8.699999809
+PER,Peru,7.199999809
+PHL,Philippines,8
+PNG,Papua New Guinea,2.599999905
+POL,Poland,13.80000019
+PRI,Puerto Rico,11
+PRK,"Korea, Dem. People's Rep.",4.400000095
+PRT,Portugal,7.599999905
+PRY,Paraguay,6.699999809
+PSE,Palestine,26.9
+PYF,French Polynesia,11.89999962
+QAT,Qatar,1.299999952
+ROU,Romania,7.300000191
+RUS,Russian Federation,7.099999905
+RWA,Rwanda,2.700000048
+SAU,Saudi Arabia,6.199999809
+SDN,Sudan,14.60000038
+SEN,Senegal,10
+SGP,Singapore,4.5
+SLB,Solomon Islands,31.29999924
+SLE,Sierra Leone,3.200000048
+SLV,El Salvador,6.599999905
+SOM,Somalia,6
+SRB,Serbia,20.79999924
+SSD,South Sudan,12.7
+STP,Sao Tome and Principe,16.60000038
+SUR,Suriname,7.099999905
+SVK,Slovak Republic,13.39999962
+SVN,Slovenia,6
+SWE,Sweden,7.099999905
+SWZ,Eswatini,26.20000076
+SYR,Syrian Arab Republic,8.199999809
+TCD,Chad,5.699999809
+TGO,Togo,6.400000095
+THA,Thailand,1.200000048
+TJK,Tajikistan,11.5
+TKM,Turkmenistan,9.100000381
+TLS,Timor-Leste,6.400000095
+TON,Tonga,5.199999809
+TTO,Trinidad and Tobago,6.300000191
+TUN,Tunisia,12.5
+TUR,Turkey,8.699999809
+TZA,Tanzania,3
+UGA,Uganda,3.299999952
+UKR,Ukraine,6.800000191
+URY,Uruguay,10.60000038
+USA,United States,4.599999905
+UZB,Uzbekistan,9.199999809
+VCT,St. Vincent and the Grenadines,19.10000038
+VEN,Venezuela,9.300000191
+VIR,Virgin Islands (U.S.),8
+VNM,Vietnam,2.400000095
+VUT,Vanuatu,5.599999905
+WSM,Samoa,1.299999952
+YEM,"Yemen, Rep.",15.69999981
+ZAF,South Africa,22.60000038
+ZMB,Zambia,14.30000019
+ZWE,Zimbabwe,5.599999905
