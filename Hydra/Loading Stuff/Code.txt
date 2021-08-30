@@ -1,0 +1,51 @@
+HTML CODE:
+Add this javascript to the top of the html file
+
+<script type="text/javascript">// <![CDATA[
+        function loading(){
+            $("#loading").show();
+            $("#content").hide();       
+        }
+// ]]></script>
+
+
+
+Add this div 
+
+<body>
+    <div id="loading"></div>
+    <div id="content">
+        <h3>Loading...</h3>
+        <p>
+        <form action="." method="POST">
+            <input type="text" name="anything" placeholder="Type anything here">
+            <input type="submit" name="anything_submit" value="Submit" onclick="loading();">
+        </form>
+        </p>
+    </div>    
+</body>
+
+-------------------------------------------------------------------------------
+
+FORM STUFF:
+Change the form button in the html code to be the following
+
+<input type="submit" name="anything_submit" value="Submit" onclick="loading();">
+
+
+-------------------------------------------------------------------------------
+
+CSS CODE:
+Add this to the CSS file (make sure to put the infinity gif in the static folder)
+
+div#loading {
+    width: 35px;
+    height: 35px;
+    display: none;
+    background: url(/static/infinity.gif) no-repeat;
+    cursor: wait;
+    }
+
+
+-------------------------------------------------------------------------------
+
